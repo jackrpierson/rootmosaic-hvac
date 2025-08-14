@@ -1,4 +1,6 @@
 import { DataTable, ColumnDef } from '@/components/DataTable';
+
+export const dynamic = 'force-dynamic';
 import { Badge } from '@/components/ui/badge';
 import { jobs, clients, technicians, invoices } from '@/lib/data';
 import { Job } from '@/types';

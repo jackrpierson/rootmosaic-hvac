@@ -1,4 +1,6 @@
 import { calculateKPIMetrics, getRevenueByMonth, getTopClientsByRevenue, getCallbackTrends } from '@/lib/metrics';
+
+export const dynamic = 'force-dynamic';
 import { KPICard } from '@/components/KPICard';
 import { RevenueChart } from '@/components/RevenueChart';
 import { CallbackChart } from '@/components/CallbackChart';
