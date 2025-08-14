@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "additionalDirectories": [
+      "C:\\"
+    ],
+    "allow": [
+      "Bash(npx tsx:*)"
+    ]
+  }
+}

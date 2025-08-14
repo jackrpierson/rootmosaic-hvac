@@ -1,0 +1,162 @@
+[
+  {
+    "id": "d0oe729mv",
+    "part_number": "CONT-40A",
+    "description": "Contactor 40 Amp 24V",
+    "category": "Electrical",
+    "cost": 15,
+    "list_price": 60,
+    "markup_percentage": 127,
+    "supplier": "HVAC Supply Co"
+  },
+  {
+    "id": "3fycdnh7r",
+    "part_number": "CAP-45-5",
+    "description": "Run Capacitor 45/5 MFD",
+    "category": "Electrical",
+    "cost": 12,
+    "list_price": 48,
+    "markup_percentage": 110,
+    "supplier": "HVAC Supply Co"
+  },
+  {
+    "id": "7os49ncrx",
+    "part_number": "CAP-START-161",
+    "description": "Start Capacitor 161-193 MFD",
+    "category": "Electrical",
+    "cost": 18,
+    "list_price": 36,
+    "markup_percentage": 297,
+    "supplier": "Parts Plus"
+  },
+  {
+    "id": "dnchh7hca",
+    "part_number": "RELAY-FAN",
+    "description": "Fan Relay SPDT 24V",
+    "category": "Electrical",
+    "cost": 8,
+    "list_price": 32,
+    "markup_percentage": 242,
+    "supplier": "HVAC Supply Co"
+  },
+  {
+    "id": "mez3qgx2t",
+    "part_number": "TXVR-410A-3",
+    "description": "TXV R-410A 3 Ton",
+    "category": "Refrigeration",
+    "cost": 85,
+    "list_price": 255,
+    "markup_percentage": 121,
+    "supplier": "RefriParts"
+  },
+  {
+    "id": "ogz40c9ke",
+    "part_number": "FILTER-20X25X1",
+    "description": "Filter 20x25x1 MERV 11",
+    "category": "Filters",
+    "cost": 8,
+    "list_price": 16,
+    "markup_percentage": 210,
+    "supplier": "Filter Express"
+  },
+  {
+    "id": "zfkwpldi1",
+    "part_number": "FILTER-16X20X1",
+    "description": "Filter 16x20x1 MERV 8",
+    "category": "Filters",
+    "cost": 6,
+    "list_price": 24,
+    "markup_percentage": 111,
+    "supplier": "Filter Express"
+  },
+  {
+    "id": "oy8orhfz4",
+    "part_number": "BELT-4L360",
+    "description": "V-Belt 4L360",
+    "category": "Motors",
+    "cost": 12,
+    "list_price": 48,
+    "markup_percentage": 108,
+    "supplier": "Belt & Bearing"
+  },
+  {
+    "id": "m39sq4jr9",
+    "part_number": "MOTOR-1/2HP",
+    "description": "Condenser Fan Motor 1/2 HP",
+    "category": "Motors",
+    "cost": 120,
+    "list_price": 480,
+    "markup_percentage": 256,
+    "supplier": "Motor World"
+  },
+  {
+    "id": "zb5yhg05v",
+    "part_number": "MOTOR-1/3HP",
+    "description": "Blower Motor 1/3 HP Variable Speed",
+    "category": "Motors",
+    "cost": 185,
+    "list_price": 555,
+    "markup_percentage": 200,
+    "supplier": "Motor World"
+  },
+  {
+    "id": "6apg1ipu6",
+    "part_number": "COIL-EVAP-3T",
+    "description": "Evaporator Coil 3 Ton R-410A",
+    "category": "Coils",
+    "cost": 280,
+    "list_price": 1120,
+    "markup_percentage": 137,
+    "supplier": "Coil Co"
+  },
+  {
+    "id": "wci0tm27n",
+    "part_number": "COIL-COND-3T",
+    "description": "Condenser Coil 3 Ton R-410A",
+    "category": "Coils",
+    "cost": 320,
+    "list_price": 1280,
+    "markup_percentage": 299,
+    "supplier": "Coil Co"
+  },
+  {
+    "id": "pn8e0h729",
+    "part_number": "COMP-3T-410A",
+    "description": "Compressor 3 Ton R-410A Scroll",
+    "category": "Compressors",
+    "cost": 850,
+    "list_price": 3400,
+    "markup_percentage": 176,
+    "supplier": "Comp Supply"
+  },
+  {
+    "id": "ryypfbpf4",
+    "part_number": "COMP-2T-410A",
+    "description": "Compressor 2 Ton R-410A Scroll",
+    "category": "Compressors",
+    "cost": 720,
+    "list_price": 1440,
+    "markup_percentage": 276,
+    "supplier": "Comp Supply"
+  },
+  {
+    "id": "swr4naacc",
+    "part_number": "THERM-PROG",
+    "description": "Programmable Thermostat 7-Day",
+    "category": "Controls",
+    "cost": 45,
+    "list_price": 90,
+    "markup_percentage": 207,
+    "supplier": "Control Tech"
+  },
+  {
+    "id": "jm7ysymnh",
+    "part_number": "THERM-WIFI",
+    "description": "WiFi Thermostat Smart",
+    "category": "Controls",
+    "cost": 125,
+    "list_price": 375,
+    "markup_percentage": 106,
+    "supplier": "Control Tech"
+  }
+]

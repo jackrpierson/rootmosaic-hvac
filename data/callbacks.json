@@ -1,0 +1,722 @@
+[
+  {
+    "id": "lc1z28ltu",
+    "root_job_id": "cxu4lzea1",
+    "callback_job_id": "5tqcua2ki",
+    "reason_category": "misdiagnosis",
+    "outcome": "repeat",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "44q69e1jp",
+    "root_job_id": "u77n78hnj",
+    "callback_job_id": "ko8xj9fvm",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "lgaw3zqwx",
+    "root_job_id": "96eq9xcki",
+    "callback_job_id": "do7cx8rnj",
+    "reason_category": "documentation",
+    "outcome": "resolved",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "8qeyjbwnp",
+    "root_job_id": "4lyfsvxy0",
+    "callback_job_id": "05egr8y6r",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "ot4n4odhd",
+    "root_job_id": "s6urs74uy",
+    "callback_job_id": "0db6gv12o",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "g5f4vjhc3",
+    "root_job_id": "02rbft4mz",
+    "callback_job_id": "0eic9qba7",
+    "reason_category": "documentation",
+    "outcome": "resolved",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "8v6xrrm1e",
+    "root_job_id": "6l0kp8ndk",
+    "callback_job_id": "808xku5qz",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "sx6tmx5nq",
+    "root_job_id": "il3gvpr5v",
+    "callback_job_id": "qmp5aa305",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "begvx75tu",
+    "root_job_id": "3053ce3vb",
+    "callback_job_id": "kk7peldb7",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "epnp098xj",
+    "root_job_id": "lkqqkz5b1",
+    "callback_job_id": "u77n78hnj",
+    "reason_category": "other",
+    "outcome": "resolved",
+    "corrective_action": "Investigated root cause. Updated preventive maintenance procedures."
+  },
+  {
+    "id": "oyhe8u1za",
+    "root_job_id": "mo3kzsadq",
+    "callback_job_id": "tkv4a0jyb",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "zl5dx6h8f",
+    "root_job_id": "zvcs4tsd4",
+    "callback_job_id": "7m0ecxpaz",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "zdrtnj7lo",
+    "root_job_id": "zh0u7utiu",
+    "callback_job_id": "3053ce3vb",
+    "reason_category": "workmanship",
+    "outcome": "repeat",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "lo78kbe7a",
+    "root_job_id": "8b47o2t9e",
+    "callback_job_id": "vr6mnf26u",
+    "reason_category": "documentation",
+    "outcome": "resolved",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "mdr2sfin6",
+    "root_job_id": "ec5w5w5rk",
+    "callback_job_id": "38voalt6r",
+    "reason_category": "misdiagnosis",
+    "outcome": "repeat",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "0qjhlgs7j",
+    "root_job_id": "qyf9d16v5",
+    "callback_job_id": "r5xfxn2ds",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "t4o8cazlc",
+    "root_job_id": "pdxvq5kjj",
+    "callback_job_id": "7msipzpdz",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "py7h8wrx6",
+    "root_job_id": "s3aovzkdm",
+    "callback_job_id": "9wxjsa1n7",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "0v43yw1jy",
+    "root_job_id": "z6vyni49x",
+    "callback_job_id": "9wm9sj6sh",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "4j7x3uw8b",
+    "root_job_id": "eap715bo9",
+    "callback_job_id": "uzr114c8b",
+    "reason_category": "misdiagnosis",
+    "outcome": "repeat",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "k5z03ucfg",
+    "root_job_id": "x790p2r55",
+    "callback_job_id": "w9uscyuea",
+    "reason_category": "workmanship",
+    "outcome": "repeat",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "s5ui905jl",
+    "root_job_id": "jb5ek0bq1",
+    "callback_job_id": "bhkmm6vit",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "tryb0q4sn",
+    "root_job_id": "51ooyyrmo",
+    "callback_job_id": "kcw8s8y1r",
+    "reason_category": "part_failure",
+    "outcome": "repeat",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "cx9uyckas",
+    "root_job_id": "yfq9qwlum",
+    "callback_job_id": "bhkmm6vit",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "7o5ceigne",
+    "root_job_id": "1ufp2078l",
+    "callback_job_id": "b0huymgrh",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "mjlyba7tw",
+    "root_job_id": "g1w34gg6d",
+    "callback_job_id": "njtk967x3",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "251dq9bxy",
+    "root_job_id": "3dom90a8o",
+    "callback_job_id": "j6ovlsxsj",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "kkvk0ajjz",
+    "root_job_id": "5csb79gmh",
+    "callback_job_id": "wyqmnd0vo",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "zzw6isgmt",
+    "root_job_id": "llmvrqd6p",
+    "callback_job_id": "km61w9qlj",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "dsnslg12q",
+    "root_job_id": "6yds4xjft",
+    "callback_job_id": "c17qhp8xo",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "san9umm04",
+    "root_job_id": "p2pgkbd2q",
+    "callback_job_id": "duntk8q2h",
+    "reason_category": "documentation",
+    "outcome": "resolved",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "1eh5b5lz0",
+    "root_job_id": "lo5gcmxth",
+    "callback_job_id": "b0huymgrh",
+    "reason_category": "documentation",
+    "outcome": "resolved",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "yl1od0fed",
+    "root_job_id": "6g2d0nniu",
+    "callback_job_id": "anybjiefo",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "s4sbnr7ur",
+    "root_job_id": "2qjrwl9fk",
+    "callback_job_id": "of0wqciti",
+    "reason_category": "part_failure",
+    "outcome": "repeat",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "0j5q1xqdf",
+    "root_job_id": "u4orvc9sq",
+    "callback_job_id": "pfx0pne6a",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "djh3w1yhy",
+    "root_job_id": "lah05eqho",
+    "callback_job_id": "cu8bwxt46",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "sue4s8ibo",
+    "root_job_id": "lhs1olqcu",
+    "callback_job_id": "qwpti9izx",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "e04pgp22h",
+    "root_job_id": "7bkoi6eef",
+    "callback_job_id": "ldf8h0hz3",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "zzsdr5mrx",
+    "root_job_id": "mv9ujbpm7",
+    "callback_job_id": "wwulfrum4",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "ux7ph0eja",
+    "root_job_id": "6frjeyjm4",
+    "callback_job_id": "cqkwe4bp7",
+    "reason_category": "misdiagnosis",
+    "outcome": "repeat",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "hwj376hsm",
+    "root_job_id": "xcd8c1kw7",
+    "callback_job_id": "2mat1of03",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "7dw064jz3",
+    "root_job_id": "5kumqglp4",
+    "callback_job_id": "588chsr0r",
+    "reason_category": "workmanship",
+    "outcome": "repeat",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "ldrnra0qd",
+    "root_job_id": "m1aipe7fx",
+    "callback_job_id": "st8gvgxay",
+    "reason_category": "documentation",
+    "outcome": "resolved",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "6r8d28502",
+    "root_job_id": "d06k3rmet",
+    "callback_job_id": "cbtvyp2m0",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "5jy46ixjp",
+    "root_job_id": "dw4qg3ttg",
+    "callback_job_id": "c9e6qqma4",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "l12wqyjoc",
+    "root_job_id": "xy0tv7as2",
+    "callback_job_id": "i2u0tne8d",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "u6pccef1t",
+    "root_job_id": "cu8bwxt46",
+    "callback_job_id": "ekbmwabuw",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "ouizqvnzt",
+    "root_job_id": "l13kdll1h",
+    "callback_job_id": "h9393kluj",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "nqxzuw44r",
+    "root_job_id": "54y0h0idn",
+    "callback_job_id": "nqtbxiwvw",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "rge14mxml",
+    "root_job_id": "el8us1nv9",
+    "callback_job_id": "uvxyr0528",
+    "reason_category": "part_failure",
+    "outcome": "repeat",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "qj7yfwug6",
+    "root_job_id": "v8lsrph7d",
+    "callback_job_id": "bcyytz1ck",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "rpbpd412h",
+    "root_job_id": "c2vyhkxgk",
+    "callback_job_id": "6h362qfx1",
+    "reason_category": "workmanship",
+    "outcome": "repeat",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "llegxbkwd",
+    "root_job_id": "nh3a6zfvf",
+    "callback_job_id": "mrclpwqjz",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "92p6kfxp4",
+    "root_job_id": "kt9mvywus",
+    "callback_job_id": "50ub1d1w0",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "qok9czbdr",
+    "root_job_id": "nvnf6etw0",
+    "callback_job_id": "k0tzerds8",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "n1gi47pj0",
+    "root_job_id": "1e59995f5",
+    "callback_job_id": "yxwd10sxx",
+    "reason_category": "other",
+    "outcome": "resolved",
+    "corrective_action": "Investigated root cause. Updated preventive maintenance procedures."
+  },
+  {
+    "id": "mphhhoss7",
+    "root_job_id": "vt8s7aaal",
+    "callback_job_id": "61f3bag2a",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "40r00bf4q",
+    "root_job_id": "nhntrb804",
+    "callback_job_id": "6v5tvg91n",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "2xhmxh1gy",
+    "root_job_id": "7r5msvfjl",
+    "callback_job_id": "xkldnn8qg",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "kq2eo2583",
+    "root_job_id": "iq6l690cr",
+    "callback_job_id": "zl8cpmiuq",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "3lgccloui",
+    "root_job_id": "yi9ea33en",
+    "callback_job_id": "l44afksj6",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "gfnuujumx",
+    "root_job_id": "jgm1kuj34",
+    "callback_job_id": "i2u0tne8d",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "z2psfwped",
+    "root_job_id": "zl8cpmiuq",
+    "callback_job_id": "hy8dx0ydr",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "hbtf38b4p",
+    "root_job_id": "6sh1woyce",
+    "callback_job_id": "0cnvmym4m",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "fh39p7df9",
+    "root_job_id": "6racr81i5",
+    "callback_job_id": "qrgpq39xe",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "rizwjbrx0",
+    "root_job_id": "572lzvoa9",
+    "callback_job_id": "5l937bu0s",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "wuroc8u9u",
+    "root_job_id": "gqy6pou73",
+    "callback_job_id": "u9qc1ps7p",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "jd5tl7fux",
+    "root_job_id": "t7b2ztrfq",
+    "callback_job_id": "vme436tmz",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "rnfmds0lz",
+    "root_job_id": "0o3c9ce3t",
+    "callback_job_id": "oo4nskw0n",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "fnpxms8wr",
+    "root_job_id": "mgy3cnhj0",
+    "callback_job_id": "i2u0tne8d",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "0v9g16nfv",
+    "root_job_id": "onycn7euf",
+    "callback_job_id": "p5mzzwxgp",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "c234kbohp",
+    "root_job_id": "6tqh420p1",
+    "callback_job_id": "5l937bu0s",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "31jyskyby",
+    "root_job_id": "2bf32skvq",
+    "callback_job_id": "vt8s7aaal",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "0h3amw59t",
+    "root_job_id": "d0fvvubw4",
+    "callback_job_id": "1mni2i3nw",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "d3u9d18m8",
+    "root_job_id": "6rbekxoiz",
+    "callback_job_id": "iz9qxi5os",
+    "reason_category": "part_failure",
+    "outcome": "resolved",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "6zv1fvytz",
+    "root_job_id": "lgi0p38z4",
+    "callback_job_id": "9tkiz3exy",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "kifndzvb3",
+    "root_job_id": "65qpplgtv",
+    "callback_job_id": "5aqq9511u",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "pcie9bmo8",
+    "root_job_id": "iq22bovkt",
+    "callback_job_id": "ojju7jgfn",
+    "reason_category": "documentation",
+    "outcome": "resolved",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "dc3yab4pf",
+    "root_job_id": "lpw4fwzy9",
+    "callback_job_id": "nbjstsk6k",
+    "reason_category": "documentation",
+    "outcome": "repeat",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "qtc94q563",
+    "root_job_id": "ns0ncqnui",
+    "callback_job_id": "apm1b7gue",
+    "reason_category": "workmanship",
+    "outcome": "repeat",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "rrw0sobxo",
+    "root_job_id": "dbqunlutc",
+    "callback_job_id": "n9f1cos6j",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "rbeo7wnqk",
+    "root_job_id": "y0ey0st0a",
+    "callback_job_id": "8x1lgkweb",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "rhu1meyxy",
+    "root_job_id": "f8siry711",
+    "callback_job_id": "3oryxryms",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "03uef4sc3",
+    "root_job_id": "p1at83tto",
+    "callback_job_id": "s08nnakxy",
+    "reason_category": "part_failure",
+    "outcome": "repeat",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "umpvp2el2",
+    "root_job_id": "1spvbw072",
+    "callback_job_id": "yibqqotgy",
+    "reason_category": "part_failure",
+    "outcome": "repeat",
+    "corrective_action": "Identified defective batch from supplier. Switched to alternate vendor for this part."
+  },
+  {
+    "id": "avjyv1pth",
+    "root_job_id": "gojrbe3e7",
+    "callback_job_id": "9db6yx99l",
+    "reason_category": "misdiagnosis",
+    "outcome": "resolved",
+    "corrective_action": "Additional diagnostic training scheduled. Implemented peer review process."
+  },
+  {
+    "id": "11armx3hm",
+    "root_job_id": "u85xignux",
+    "callback_job_id": "d659kvcns",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "n3jyhqp88",
+    "root_job_id": "ysdz00crc",
+    "callback_job_id": "dtdy9ledu",
+    "reason_category": "documentation",
+    "outcome": "repeat",
+    "corrective_action": "Updated service procedures. Mandatory photo documentation implemented."
+  },
+  {
+    "id": "ory8szuow",
+    "root_job_id": "5ly4zq9e7",
+    "callback_job_id": "nsrzdqsiw",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  },
+  {
+    "id": "bha1yfs3j",
+    "root_job_id": "xpqrhjiu5",
+    "callback_job_id": "n2srzixlh",
+    "reason_category": "workmanship",
+    "outcome": "resolved",
+    "corrective_action": "Retrained technician on proper installation procedures. Implemented QC checklist."
+  }
+]

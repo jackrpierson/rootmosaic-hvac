@@ -1,0 +1,292 @@
+[
+  {
+    "id": "jiownh0ek",
+    "name": "Carlos Martinez",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society"
+    ],
+    "hire_date": "2022-12-05T06:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 8,
+      "electrical": 7,
+      "refrigeration": 8,
+      "troubleshooting": 7,
+      "customer_service": 6
+    },
+    "hourly_cost": 55,
+    "efficiency_score": 94
+  },
+  {
+    "id": "vfwzcirjc",
+    "name": "Jake Thompson",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society",
+      "Electrical License"
+    ],
+    "hire_date": "2020-03-03T06:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 7,
+      "electrical": 9,
+      "refrigeration": 6,
+      "troubleshooting": 7,
+      "customer_service": 8
+    },
+    "hourly_cost": 51,
+    "efficiency_score": 71
+  },
+  {
+    "id": "ydccl2ocm",
+    "name": "Miguel Rodriguez",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society",
+      "Electrical License"
+    ],
+    "hire_date": "2024-10-26T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 8,
+      "electrical": 10,
+      "refrigeration": 8,
+      "troubleshooting": 8,
+      "customer_service": 7
+    },
+    "hourly_cost": 52,
+    "efficiency_score": 70
+  },
+  {
+    "id": "lk8sebdwf",
+    "name": "Tony Russo",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society"
+    ],
+    "hire_date": "2020-05-07T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 9,
+      "electrical": 8,
+      "refrigeration": 10,
+      "troubleshooting": 9,
+      "customer_service": 6
+    },
+    "hourly_cost": 52,
+    "efficiency_score": 82
+  },
+  {
+    "id": "91i2osphd",
+    "name": "Steve Johnson",
+    "role": "junior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society"
+    ],
+    "hire_date": "2024-07-22T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 10,
+      "electrical": 5,
+      "refrigeration": 6,
+      "troubleshooting": 6,
+      "customer_service": 9
+    },
+    "hourly_cost": 36,
+    "efficiency_score": 64
+  },
+  {
+    "id": "kvwem1pfe",
+    "name": "Dave Wilson",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society"
+    ],
+    "hire_date": "2024-12-04T06:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 9,
+      "electrical": 8,
+      "refrigeration": 8,
+      "troubleshooting": 10,
+      "customer_service": 9
+    },
+    "hourly_cost": 45,
+    "efficiency_score": 86
+  },
+  {
+    "id": "sekbqfydw",
+    "name": "Frank Garcia",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified"
+    ],
+    "hire_date": "2021-05-01T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 9,
+      "electrical": 7,
+      "refrigeration": 10,
+      "troubleshooting": 9,
+      "customer_service": 9
+    },
+    "hourly_cost": 43,
+    "efficiency_score": 87
+  },
+  {
+    "id": "loogp3jio",
+    "name": "Eddie Chen",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified"
+    ],
+    "hire_date": "2021-06-03T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 8,
+      "electrical": 7,
+      "refrigeration": 7,
+      "troubleshooting": 10,
+      "customer_service": 8
+    },
+    "hourly_cost": 52,
+    "efficiency_score": 92
+  },
+  {
+    "id": "bbyv53owm",
+    "name": "Mario Lopez",
+    "role": "specialist",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society",
+      "Electrical License"
+    ],
+    "hire_date": "2023-10-01T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 9,
+      "electrical": 10,
+      "refrigeration": 7,
+      "troubleshooting": 7,
+      "customer_service": 9
+    },
+    "hourly_cost": 69,
+    "efficiency_score": 94
+  },
+  {
+    "id": "sh7l6h1r9",
+    "name": "Alex Kim",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence"
+    ],
+    "hire_date": "2020-02-13T06:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 7,
+      "electrical": 10,
+      "refrigeration": 9,
+      "troubleshooting": 8,
+      "customer_service": 6
+    },
+    "hourly_cost": 46,
+    "efficiency_score": 83
+  },
+  {
+    "id": "q231nho3k",
+    "name": "Ryan O'Connor",
+    "role": "senior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified"
+    ],
+    "hire_date": "2021-01-03T06:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 8,
+      "electrical": 10,
+      "refrigeration": 10,
+      "troubleshooting": 7,
+      "customer_service": 6
+    },
+    "hourly_cost": 52,
+    "efficiency_score": 77
+  },
+  {
+    "id": "4cn8npkw3",
+    "name": "Sam Patel",
+    "role": "junior",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society",
+      "Electrical License"
+    ],
+    "hire_date": "2020-04-16T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 6,
+      "electrical": 9,
+      "refrigeration": 9,
+      "troubleshooting": 10,
+      "customer_service": 8
+    },
+    "hourly_cost": 38,
+    "efficiency_score": 92
+  },
+  {
+    "id": "et7hker37",
+    "name": "Chris Anderson",
+    "role": "lead",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified"
+    ],
+    "hire_date": "2023-07-16T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 8,
+      "electrical": 6,
+      "refrigeration": 10,
+      "troubleshooting": 9,
+      "customer_service": 6
+    },
+    "hourly_cost": 52,
+    "efficiency_score": 70
+  },
+  {
+    "id": "7696jvv67",
+    "name": "Tyler Brown",
+    "role": "lead",
+    "certifications": [
+      "EPA 608 Universal",
+      "NATE Certified",
+      "HVAC Excellence",
+      "Refrigeration Service Engineers Society",
+      "Electrical License"
+    ],
+    "hire_date": "2020-05-21T05:00:00.000Z",
+    "skill_ratings": {
+      "hvac_systems": 8,
+      "electrical": 7,
+      "refrigeration": 6,
+      "troubleshooting": 10,
+      "customer_service": 7
+    },
+    "hourly_cost": 57,
+    "efficiency_score": 79
+  }
+]

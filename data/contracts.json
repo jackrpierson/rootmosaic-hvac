@@ -1,0 +1,366 @@
+[
+  {
+    "id": "4bdpbl66g",
+    "client_id": "8h6hydnw2",
+    "start_date": "2024-06-01T05:00:00.000Z",
+    "end_date": "2025-06-01T05:00:00.000Z",
+    "annual_value": 472,
+    "visits_per_year": 2,
+    "equipment_list": [
+      "Mitsubishi RTU - 15 tons",
+      "Trane mini-split - 2 tons"
+    ],
+    "renewal_date": "2025-04-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "byw0ph4do",
+    "client_id": "fe442msd9",
+    "start_date": "2024-08-01T05:00:00.000Z",
+    "end_date": "2025-08-01T05:00:00.000Z",
+    "annual_value": 893,
+    "visits_per_year": 2,
+    "equipment_list": [
+      "Trane RTU - 6 tons",
+      "Lennox chiller - 6 tons"
+    ],
+    "renewal_date": "2025-06-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "0w8bdgirj",
+    "client_id": "nat8wngyq",
+    "start_date": "2024-12-01T06:00:00.000Z",
+    "end_date": "2025-12-01T06:00:00.000Z",
+    "annual_value": 1065,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Daikin refrigeration - 5 tons",
+      "Lennox mini-split - 10 tons"
+    ],
+    "renewal_date": "2025-10-02T05:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "8xmals4mr",
+    "client_id": "0rh2pxzkp",
+    "start_date": "2024-05-01T05:00:00.000Z",
+    "end_date": "2025-05-01T05:00:00.000Z",
+    "annual_value": 2377,
+    "visits_per_year": 12,
+    "equipment_list": [
+      "York split - 12 tons",
+      "Lennox split - 9 tons"
+    ],
+    "renewal_date": "2025-03-02T06:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "2fov0ewgs",
+    "client_id": "jddfffcr9",
+    "start_date": "2024-03-01T06:00:00.000Z",
+    "end_date": "2025-03-01T06:00:00.000Z",
+    "annual_value": 1704,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Daikin chiller - 5 tons",
+      "Trane split - 4 tons"
+    ],
+    "renewal_date": "2024-12-31T06:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "j04xr749r",
+    "client_id": "7n8xgo3q8",
+    "start_date": "2024-02-01T06:00:00.000Z",
+    "end_date": "2025-02-01T06:00:00.000Z",
+    "annual_value": 730,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Rheem split - 11 tons",
+      "York split - 13 tons"
+    ],
+    "renewal_date": "2024-12-03T06:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "v796cp008",
+    "client_id": "v1j2emy6g",
+    "start_date": "2024-08-01T05:00:00.000Z",
+    "end_date": "2025-08-01T05:00:00.000Z",
+    "annual_value": 1048,
+    "visits_per_year": 2,
+    "equipment_list": [
+      "Daikin chiller - 4 tons",
+      "Rheem refrigeration - 9 tons"
+    ],
+    "renewal_date": "2025-06-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "217528q6n",
+    "client_id": "jt3zwc0nv",
+    "start_date": "2024-05-01T05:00:00.000Z",
+    "end_date": "2025-05-01T05:00:00.000Z",
+    "annual_value": 2466,
+    "visits_per_year": 12,
+    "equipment_list": [
+      "York boiler - 4 tons",
+      "Daikin mini-split - 12 tons"
+    ],
+    "renewal_date": "2025-03-02T06:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "ce6opm472",
+    "client_id": "90dlkc988",
+    "start_date": "2024-10-01T05:00:00.000Z",
+    "end_date": "2025-10-01T05:00:00.000Z",
+    "annual_value": 1806,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Mitsubishi chiller - 15 tons",
+      "Goodman chiller - 9 tons"
+    ],
+    "renewal_date": "2025-08-02T05:00:00.000Z",
+    "status": "pending_renewal"
+  },
+  {
+    "id": "u1hcqi0fd",
+    "client_id": "pt5p0vvrb",
+    "start_date": "2024-01-01T06:00:00.000Z",
+    "end_date": "2025-01-01T06:00:00.000Z",
+    "annual_value": 3924,
+    "visits_per_year": 12,
+    "equipment_list": [
+      "Mitsubishi boiler - 5 tons",
+      "Trane split - 11 tons"
+    ],
+    "renewal_date": "2024-11-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "nz15y7eeo",
+    "client_id": "v3axhtl2m",
+    "start_date": "2024-11-01T05:00:00.000Z",
+    "end_date": "2025-11-01T05:00:00.000Z",
+    "annual_value": 1078,
+    "visits_per_year": 2,
+    "equipment_list": [
+      "Rheem chiller - 15 tons",
+      "Carrier boiler - 10 tons"
+    ],
+    "renewal_date": "2025-09-02T05:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "nhsqhvnr6",
+    "client_id": "5chc0k2rl",
+    "start_date": "2024-09-01T05:00:00.000Z",
+    "end_date": "2025-09-01T05:00:00.000Z",
+    "annual_value": 1753,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Daikin mini-split - 11 tons",
+      "Goodman split - 8 tons"
+    ],
+    "renewal_date": "2025-07-03T05:00:00.000Z",
+    "status": "pending_renewal"
+  },
+  {
+    "id": "vqwbla2tk",
+    "client_id": "4hb563m38",
+    "start_date": "2024-03-01T06:00:00.000Z",
+    "end_date": "2025-03-01T06:00:00.000Z",
+    "annual_value": 958,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "York chiller - 7 tons",
+      "Trane chiller - 9 tons"
+    ],
+    "renewal_date": "2024-12-31T06:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "6ccp2nnde",
+    "client_id": "sjh6t31hy",
+    "start_date": "2024-05-01T05:00:00.000Z",
+    "end_date": "2025-05-01T05:00:00.000Z",
+    "annual_value": 1535,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "York split - 13 tons",
+      "Goodman boiler - 8 tons"
+    ],
+    "renewal_date": "2025-03-02T06:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "rgf27m9by",
+    "client_id": "l5y38373n",
+    "start_date": "2024-07-01T05:00:00.000Z",
+    "end_date": "2025-07-01T05:00:00.000Z",
+    "annual_value": 533,
+    "visits_per_year": 2,
+    "equipment_list": [
+      "Daikin boiler - 10 tons",
+      "Trane refrigeration - 5 tons"
+    ],
+    "renewal_date": "2025-05-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "yhzoh3qpp",
+    "client_id": "a0abyd0ar",
+    "start_date": "2024-11-01T05:00:00.000Z",
+    "end_date": "2025-11-01T05:00:00.000Z",
+    "annual_value": 3322,
+    "visits_per_year": 12,
+    "equipment_list": [
+      "Daikin chiller - 5 tons",
+      "Trane refrigeration - 13 tons"
+    ],
+    "renewal_date": "2025-09-02T05:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "yb2zws7y8",
+    "client_id": "pbx8ijazq",
+    "start_date": "2024-07-01T05:00:00.000Z",
+    "end_date": "2025-07-01T05:00:00.000Z",
+    "annual_value": 893,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Trane refrigeration - 11 tons",
+      "Mitsubishi split - 15 tons"
+    ],
+    "renewal_date": "2025-05-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "vb9hpzu50",
+    "client_id": "yemuyc9pt",
+    "start_date": "2024-11-01T05:00:00.000Z",
+    "end_date": "2025-11-01T05:00:00.000Z",
+    "annual_value": 1735,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Goodman refrigeration - 8 tons",
+      "Rheem mini-split - 10 tons"
+    ],
+    "renewal_date": "2025-09-02T05:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "hyf55mfko",
+    "client_id": "bovv19d4e",
+    "start_date": "2024-07-01T05:00:00.000Z",
+    "end_date": "2025-07-01T05:00:00.000Z",
+    "annual_value": 1583,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Mitsubishi mini-split - 12 tons",
+      "Mitsubishi refrigeration - 4 tons"
+    ],
+    "renewal_date": "2025-05-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "1w0p5s6tn",
+    "client_id": "ajg81eyl3",
+    "start_date": "2024-01-01T06:00:00.000Z",
+    "end_date": "2025-01-01T06:00:00.000Z",
+    "annual_value": 1707,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Goodman refrigeration - 2 tons",
+      "Daikin boiler - 13 tons"
+    ],
+    "renewal_date": "2024-11-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "yq8clp7s4",
+    "client_id": "t05k8ldso",
+    "start_date": "2024-06-01T05:00:00.000Z",
+    "end_date": "2025-06-01T05:00:00.000Z",
+    "annual_value": 3213,
+    "visits_per_year": 12,
+    "equipment_list": [
+      "Daikin refrigeration - 15 tons",
+      "York RTU - 4 tons"
+    ],
+    "renewal_date": "2025-04-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "8yejtjjkv",
+    "client_id": "tkrx5d6oy",
+    "start_date": "2024-01-01T06:00:00.000Z",
+    "end_date": "2025-01-01T06:00:00.000Z",
+    "annual_value": 872,
+    "visits_per_year": 2,
+    "equipment_list": [
+      "York refrigeration - 20 tons",
+      "Mitsubishi refrigeration - 6 tons"
+    ],
+    "renewal_date": "2024-11-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "jdxqn80md",
+    "client_id": "emmsazw9d",
+    "start_date": "2024-07-01T05:00:00.000Z",
+    "end_date": "2025-07-01T05:00:00.000Z",
+    "annual_value": 1835,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Goodman RTU - 19 tons",
+      "Mitsubishi RTU - 10 tons"
+    ],
+    "renewal_date": "2025-05-02T05:00:00.000Z",
+    "status": "expired"
+  },
+  {
+    "id": "7211fabza",
+    "client_id": "nmbs6588n",
+    "start_date": "2024-11-01T05:00:00.000Z",
+    "end_date": "2025-11-01T05:00:00.000Z",
+    "annual_value": 1609,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "Carrier RTU - 8 tons",
+      "York boiler - 11 tons"
+    ],
+    "renewal_date": "2025-09-02T05:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "mxttk0rtt",
+    "client_id": "bwl0slx1q",
+    "start_date": "2024-12-01T06:00:00.000Z",
+    "end_date": "2025-12-01T06:00:00.000Z",
+    "annual_value": 1056,
+    "visits_per_year": 4,
+    "equipment_list": [
+      "York chiller - 5 tons",
+      "Carrier refrigeration - 15 tons"
+    ],
+    "renewal_date": "2025-10-02T05:00:00.000Z",
+    "status": "active"
+  },
+  {
+    "id": "kezsk8gpv",
+    "client_id": "odd1d1del",
+    "start_date": "2024-08-01T05:00:00.000Z",
+    "end_date": "2025-08-01T05:00:00.000Z",
+    "annual_value": 2009,
+    "visits_per_year": 12,
+    "equipment_list": [
+      "York refrigeration - 17 tons",
+      "Mitsubishi refrigeration - 3 tons"
+    ],
+    "renewal_date": "2025-06-02T05:00:00.000Z",
+    "status": "expired"
+  }
+]
