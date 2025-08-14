@@ -23,7 +23,7 @@ export function extractSymptoms(notes: string): string[] {
     }
   });
   
-  return [...new Set(found)]; // Remove duplicates
+  return Array.from(new Set(found)); // Remove duplicates
 }
 
 /**
@@ -46,7 +46,7 @@ export function extractParts(notes: string): string[] {
     }
   });
   
-  return [...new Set(found)];
+  return Array.from(new Set(found));
 }
 
 /**
@@ -68,7 +68,7 @@ export function extractActions(notes: string): string[] {
     }
   });
   
-  return [...new Set(found)];
+  return Array.from(new Set(found));
 }
 
 /**
@@ -169,7 +169,7 @@ export function extractAgeIndicators(notes: string): string[] {
     }
   });
   
-  return [...new Set(found)];
+  return Array.from(new Set(found));
 }
 
 /**
@@ -190,5 +190,5 @@ export function extractEfficiencyConcerns(notes: string): string[] {
     }
   });
   
-  return [...new Set(found)];
+  return Array.from(new Set(found));
 }
