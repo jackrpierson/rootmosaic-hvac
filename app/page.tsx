@@ -1,12 +1,12 @@
 import { calculateKPIMetrics, getRevenueByMonth, getTopClientsByRevenue, getCallbackTrends } from '@/lib/metrics';
-
-export const dynamic = 'force-dynamic';
 import { KPICard } from '@/components/KPICard';
 import { RevenueChart } from '@/components/RevenueChart';
 import { CallbackChart } from '@/components/CallbackChart';
 import { TopClientsChart } from '@/components/TopClientsChart';
 import { AlertsSection } from '@/components/AlertsSection';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+
+export const dynamic = 'force-dynamic';
 
 export default function Dashboard() {
   const kpis = calculateKPIMetrics();

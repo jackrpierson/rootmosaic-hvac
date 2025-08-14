@@ -1,6 +1,4 @@
 import { DataTable, ColumnDef } from '@/components/DataTable';
-
-export const dynamic = 'force-dynamic';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { technicians } from '@/lib/data';
@@ -13,6 +11,8 @@ import {
   formatStatus
 } from '@/lib/format';
 import { Trophy, TrendingUp, AlertTriangle, CheckCircle } from 'lucide-react';
+
+export const dynamic = 'force-dynamic';
 
 export default function TechniciansPage() {
   // Calculate metrics for all technicians

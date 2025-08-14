@@ -1,6 +1,4 @@
 import { DataTable, ColumnDef } from '@/components/DataTable';
-
-export const dynamic = 'force-dynamic';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { contracts, clients } from '@/lib/data';
@@ -12,6 +10,8 @@ import {
   getStatusColor
 } from '@/lib/format';
 import { FileText, Calendar, DollarSign, AlertTriangle } from 'lucide-react';
+
+export const dynamic = 'force-dynamic';
 
 export default function ContractsPage() {
   const enrichedContracts = contracts.map(contract => {

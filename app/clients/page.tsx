@@ -1,6 +1,4 @@
 import { DataTable, ColumnDef } from '@/components/DataTable';
-
-export const dynamic = 'force-dynamic';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { clients, equipment, contracts } from '@/lib/data';
@@ -13,6 +11,8 @@ import {
   formatStatus
 } from '@/lib/format';
 import { Star, TrendingUp, AlertCircle, Users } from 'lucide-react';
+
+export const dynamic = 'force-dynamic';
 
 export default function ClientsPage() {
   // Calculate metrics for all clients

@@ -1,6 +1,4 @@
 import { DataTable, ColumnDef } from '@/components/DataTable';
-
-export const dynamic = 'force-dynamic';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { callbacks, jobs, clients, technicians } from '@/lib/data';
@@ -13,6 +11,8 @@ import {
 } from '@/lib/format';
 import { getCallbackTrends } from '@/lib/metrics';
 import { CallbackChart } from '@/components/CallbackChart';
+
+export const dynamic = 'force-dynamic';
 
 export default function CallbacksPage() {
   const callbackTrends = getCallbackTrends();

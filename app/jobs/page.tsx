@@ -1,6 +1,4 @@
 import { DataTable, ColumnDef } from '@/components/DataTable';
-
-export const dynamic = 'force-dynamic';
 import { Badge } from '@/components/ui/badge';
 import { jobs, clients, technicians, invoices } from '@/lib/data';
 import { Job } from '@/types';
@@ -13,6 +11,8 @@ import {
   getStatusColor,
   formatHours 
 } from '@/lib/format';
+
+export const dynamic = 'force-dynamic';
 
 export default function JobsPage() {
   // Enrich job data with client and technician names
