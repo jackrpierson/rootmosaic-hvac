@@ -12,8 +12,6 @@ import {
 } from '@/lib/format';
 import { Star, TrendingUp, AlertCircle, Users } from 'lucide-react';
 
-export const dynamic = 'force-dynamic';
-
 export default function ClientsPage() {
   // Calculate metrics for all clients
   const clientMetrics = clients.map(client => {

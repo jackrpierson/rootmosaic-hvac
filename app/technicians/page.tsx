@@ -12,8 +12,6 @@ import {
 } from '@/lib/format';
 import { Trophy, TrendingUp, AlertTriangle, CheckCircle } from 'lucide-react';
 
-export const dynamic = 'force-dynamic';
-
 export default function TechniciansPage() {
   // Calculate metrics for all technicians
   const techMetrics = technicians.map(tech => {

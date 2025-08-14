@@ -12,8 +12,6 @@ import {
 import { getCallbackTrends } from '@/lib/metrics';
 import { CallbackChart } from '@/components/CallbackChart';
 
-export const dynamic = 'force-dynamic';
-
 export default function CallbacksPage() {
   const callbackTrends = getCallbackTrends();
   

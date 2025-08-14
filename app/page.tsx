@@ -6,8 +6,6 @@ import { TopClientsChart } from '@/components/TopClientsChart';
 import { AlertsSection } from '@/components/AlertsSection';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
-export const dynamic = 'force-dynamic';
-
 export default function Dashboard() {
   const kpis = calculateKPIMetrics();
   const revenueData = getRevenueByMonth();

@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import { 
   Client, 
   Technician, 
@@ -12,23 +10,27 @@ import {
   PricebookItem 
 } from '@/types';
 
-// Data loading function
-function loadJsonData<T>(filename: string): T[] {
-  const dataPath = path.join(process.cwd(), 'data', filename);
-  const fileContents = fs.readFileSync(dataPath, 'utf8');
-  return JSON.parse(fileContents) as T[];
-}
+// Import data as static modules (this works in Vercel)
+import clientsData from '@/data/clients.json';
+import techniciansData from '@/data/technicians.json';
+import jobsData from '@/data/jobs.json';
+import invoicesData from '@/data/invoices.json';
+import contractsData from '@/data/contracts.json';
+import equipmentData from '@/data/equipment.json';
+import callbacksData from '@/data/callbacks.json';
+import attachmentsData from '@/data/attachments.json';
+import pricebookData from '@/data/pricebook.json';
 
 // Type-safe data exports
-export const clients: Client[] = loadJsonData<Client>('clients.json');
-export const technicians: Technician[] = loadJsonData<Technician>('technicians.json');
-export const jobs: Job[] = loadJsonData<Job>('jobs.json');
-export const invoices: Invoice[] = loadJsonData<Invoice>('invoices.json');
-export const contracts: Contract[] = loadJsonData<Contract>('contracts.json');
-export const equipment: Equipment[] = loadJsonData<Equipment>('equipment.json');
-export const callbacks: Callback[] = loadJsonData<Callback>('callbacks.json');
-export const attachments: Attachment[] = loadJsonData<Attachment>('attachments.json');
-export const pricebook: PricebookItem[] = loadJsonData<PricebookItem>('pricebook.json');
+export const clients: Client[] = clientsData as Client[];
+export const technicians: Technician[] = techniciansData as Technician[];
+export const jobs: Job[] = jobsData as Job[];
+export const invoices: Invoice[] = invoicesData as Invoice[];
+export const contracts: Contract[] = contractsData as Contract[];
+export const equipment: Equipment[] = equipmentData as Equipment[];
+export const callbacks: Callback[] = callbacksData as Callback[];
+export const attachments: Attachment[] = attachmentsData as Attachment[];
+export const pricebook: PricebookItem[] = pricebookData as PricebookItem[];
 
 // Utility functions for data access
 export function getClientById(id: string): Client | undefined {

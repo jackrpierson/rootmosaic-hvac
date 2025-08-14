@@ -11,8 +11,6 @@ import {
 } from '@/lib/format';
 import { FileText, Calendar, DollarSign, AlertTriangle } from 'lucide-react';
 
-export const dynamic = 'force-dynamic';
-
 export default function ContractsPage() {
   const enrichedContracts = contracts.map(contract => {
     const client = clients.find(c => c.id === contract.client_id);

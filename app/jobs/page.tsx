@@ -12,8 +12,6 @@ import {
   formatHours 
 } from '@/lib/format';
 
-export const dynamic = 'force-dynamic';
-
 export default function JobsPage() {
   // Enrich job data with client and technician names
   const enrichedJobs = jobs.map(job => {
