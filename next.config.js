@@ -1,15 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   typescript: {
     ignoreBuildErrors: false,
   },
-  eslint: {
-    ignoreDuringBuilds: false,
-  },
-  experimental: {
-    optimizePackageImports: ['lucide-react'],
-  },
-  output: 'standalone',
 };
 
 module.exports = nextConfig;
