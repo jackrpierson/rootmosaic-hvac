@@ -1,11 +1,14 @@
 {
   "permissions": {
+    "allow": [
+      "Bash(npx tsx:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ],
     "defaultMode": "acceptEdits",
     "additionalDirectories": [
       "C:\\"
-    ],
-    "allow": [
-      "Bash(npx tsx:*)"
     ]
   }
 }

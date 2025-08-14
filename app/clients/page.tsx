@@ -193,7 +193,7 @@ export default function ClientsPage() {
           </CardHeader>
           <CardContent>
             <div className="text-2xl font-bold">{highValueClients}</div>
-            <p className="text-xs text-muted-foreground">Value score > 80</p>
+            <p className="text-xs text-muted-foreground">Value score &gt; 80</p>
           </CardContent>
         </Card>
         
